@@ -1,0 +1,19 @@
+{
+  "name": "cajero",
+  "version": "1.0.0",
+  "description": "Cajero con funciones basicas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dav3ku/project2-JS1-Cajero.git"
+  },
+  "author": "@dav3ku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dav3ku/project2-JS1-Cajero/issues"
+  },
+  "homepage": "https://github.com/dav3ku/project2-JS1-Cajero#readme"
+}
